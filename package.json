@@ -1,0 +1,17 @@
+{
+  "name": "contact-app",
+  "version": "1.0.0",
+  "description": "Contact App",
+  "main": "app.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "author": "Fanny",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "nodemon": "^3.0.1",
+    "validator": "^13.11.0",
+    "yargs": "^16.2.0"
+  }
+}
